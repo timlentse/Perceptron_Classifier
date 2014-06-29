@@ -4,7 +4,7 @@
 
 把图像边界坐标点看作复数，对复数序列作DFT，DFT结果就是傅里叶描绘子，保留部分描绘子，可以对原图的边界较好的复原
 
-click [here]() for more information
+click [here](https://github.com/timlentse/Perceptron_Classifier/blob/master/pdf.pdf) for more informations
 ### 原图边界
 
 #### Plane1:                                                  
