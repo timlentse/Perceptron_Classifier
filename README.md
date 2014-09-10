@@ -5,7 +5,7 @@
 如果把图像边界像素坐标点（i，j）看作复数，对复数序列作DFT，DFT结果一定程度上描述了边界信息，我们把DFT的结果叫做傅里叶
 描绘子，保留部分描绘子，可以对原图的边界较好的复原。
 click [here](https://github.com/timlentse/Perceptron_Classifier/blob/master/pdf.pdf) for more informations
-### original Image below
+### below is screen shots
 
 #### Image_Plane1:
 ![alt tag](https://raw.githubusercontent.com/timlentse/Perceptron_Classifier/master/50descriptor%20plane1.png)
