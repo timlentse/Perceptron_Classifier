@@ -7,41 +7,42 @@ Click [Here](https://github.com/timlentse/Perceptron_Classifier/blob/master/pdf.
 
 
 ### Below are screen shots in my ubuntu
+* 原图  
 
-####Plane1:
+#### Plane1:
 ![orignal plane1](https://raw.githubusercontent.com/timlentse/Perceptron_Classifier/master/50descriptor%20plane1.png)
 
-####Plane2: 
+#### Plane2: 
 
 ![orignal plane2g](https://raw.githubusercontent.com/timlentse/Perceptron_Classifier/master/50descriptor%20plane2.png)
 
-### 10个傅里叶描绘子重建
+* 10个傅里叶描绘子重建
 
-####Plane1: 
+#### Plane1: 
 
 ![alt tag](https://raw.githubusercontent.com/timlentse/Perceptron_Classifier/master/10descriptor%20plane1.png)
 
-####Plane2: 
+#### Plane2: 
 
 ![alt tag](https://raw.githubusercontent.com/timlentse/Perceptron_Classifier/master/10descriptor%20plane2.png)
 
-### 18个傅里叶描绘子重建
+* 18个傅里叶描绘子重建
 
-####Plane1: 
+#### Plane1: 
 
 ![alt tag](https://raw.githubusercontent.com/timlentse/Perceptron_Classifier/master/18descriptor%20plane1.png)
 
-####Plane2: 
+#### Plane2: 
 
 ![alt tag](https://raw.githubusercontent.com/timlentse/Perceptron_Classifier/master/18descriptor%20plane2.png)
 
-### 20个傅里叶描绘子重建
+* 20个傅里叶描绘子重建
 
 ####Plane1: 
 
 ![alt tag](https://raw.githubusercontent.com/timlentse/Perceptron_Classifier/master/20descriptor%20plane1.png)
 
-####Plane2: 
+#### Plane2: 
 
 ![alt tag](https://raw.githubusercontent.com/timlentse/Perceptron_Classifier/master/20descriptor%20plane2.png)
 
